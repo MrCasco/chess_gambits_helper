@@ -73,10 +73,10 @@ Caro-Kann Defence
 
     Schaffer Gambit – B10 – 1.e4 c6 2.Bc4 d5 3.Bb3
     Van Weersel Attack – B10 – 1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.Qb3
-    Maróczy Gambit – B12 – 1.e4 c6 2.d4 d5 3. f3 dxe4 4.fxe4 e5 5.Nf3 exd4 6.Bc4
+    Maroczy Gambit – B12 – 1.e4 c6 2.d4 d5 3. f3 dxe4 4.fxe4 e5 5.Nf3 exd4 6.Bc4
     Tal Variation 5.Bg5 – B12 – 1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qb6 6. Bd3 Bxd3 7. Qxd3 Qxb2 8. e6
     Godley Gambit – B13 – 1.e4 c6 2.d4 d5 3.exd5 Nf6
-    Alekhine Gambit – B15 – 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Bd3
+    Alekhine Gambit Black – B15 – 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Bd3
     Rasa-Studier Gambit – B15 – 1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.f3
 
 Center Game
@@ -92,7 +92,7 @@ Dutch Defence
 
     Janzen-Korchnoi Gambit – A80 – 1.d4 f5 2.h3 Nf6 3.g4
     Kingfisher Gambit – A80 – 1.d4 f5 2.Nc3 d5 3.e4
-    Krejcik Gambit – A80 – 1.d4 f5 2.g4
+    Krejcik Gambit Black – A80 – 1.d4 f5 2.g4
     Manhattan Gambit – A80 – 1.d4 f5 2.Qd3 e6 (or 2...g6, d5, d6) 3.g4
     Spielmann Gambit – A80 – 1.d4 f5 2.Nc3 Nf6 3.g4
     Staunton Gambit – A82 – 1.d4 f5 2.e4
@@ -124,7 +124,7 @@ Evans Gambit
 Four Knights Game
 
     Belgrade Gambit – C47 – 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nd5
-    Halloween Gambit (Müller-Schultze) Gambit – C47 – 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Nxe5
+    Halloween Gambit (Muller-Schultze) Gambit – C47 – 1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Nxe5
 
 French Defence
 
@@ -158,7 +158,7 @@ Giuoco Piano
 Indian Defence
 
     Benko Gambit (Volga Gambit) – A57 – 1.d4 Nf6 2.c4 c5 3.d5 b5
-    Grünfeld Gambit – D83 – 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 0-0
+    Grunfeld Gambit – D83 – 1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 0-0
     Blumenfeld Counter Gambit – E10 – 1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 b5
     Danube Gambit – E60 – 1.d4 Nf6 2.c4 g6 3.d5 b5
 
@@ -311,16 +311,16 @@ Ruy Lopez
 Scandinavian Defense
 
     Boehnke Gambit – B01 – 1.e4 d5 2.exd5 e6 3.dxe6 Bxe6
-    Kotrč-Mieses Gambit – B01 – 1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.b4
+    Kotrc-Mieses Gambit – B01 – 1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.b4
     Marshall Gambit – B01 – 1.e4 d5 2.exd5 Nf6
     Icelandic Gambit – B01 – 1.e4 d5 2.exd5 Nf6 3.c4 e6
     Portuguese Gambit – B01 – 1.e4 d5 2.exd5 Nf6 3.d4 Bg4
-    Kádas Gambit – B01 – 1.e4 d5 2.exd5 Nf6 3.d4 c6 4.dxc6 e5
+    Kadas Gambit – B01 – 1.e4 d5 2.exd5 Nf6 3.d4 c6 4.dxc6 e5
     Tennison Gambit (aka: Abonyi Gambit or Lemberg Gambit or Zukertort Gambit) – B01 – 1.e4 d5 2.Nf3 {also 1.Nf3 d5 2.e4}
 
 Scotch Game
 
-    Göring Gambit – C44 – 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3
+    Goring Gambit – C44 – 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3
     Relfsson Gambit – C44 – 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bb5
     Scotch Gambit – C44 – 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4
 

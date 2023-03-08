@@ -1,0 +1,437 @@
+{
+  "black":{
+    "Amar Opening":{
+      "Gent Gambit":"1.Nh3 d5 2.g3 e5 3.f4 Bxh3 4.Bxh3 exf4 5.0-0 fxg3 6.hxg3"
+    },
+    "Bird's Opening":{
+      "From's Gambit, Lipke Variation":"1.f4 e5 2.fxe5 d6 3.exd6 Bxd6 4.Nf3 Nh6 5.d4",
+      "From's Gambit, Schlechter Gambit":"1.f4 e5 2.fxe5 Nc6",
+      "Inverted Dutch, Dudweiler Gambit":"1.f4 d5 2.g4",
+      "Inverted Dutch, Thomas Gambit":"1.f4 d5 2.b3 Nf6 3.Bb2 d4 4.Nf3 c5 5.e3",
+      "Inverted Dutch, Williams, Zilbermints Variation":"1.f4 d5 2.e4 dxe4 3.Nc3 Nf6 4.Nge2",
+      "Sturm Gambit":"1.f4 d5 2.c4"
+    },
+    "Bishop's Opening":{
+      "Calabrian Countergambit":"1.e4 e5 2.Bc4 f5",
+      "Lewis Countergambit":"1.e4 e5 2.Bc4 Bc5 3.c3 d5",
+      "Lopez Gambit":"1.e4 e5 2.Bc4 Bc5 3.Qe2 Nf6 4.d3 Nc6 5.c3 Ne7 6.f4"
+    },
+    "Blackmar-Diemer Gambit":{
+      "Ryder Gambit":"1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Qxf3",
+      "Hubsch Gambit":"1.d4 d5 2.Nc3 Nf6 3.e4 Nxe4 4.Nxe4 dxe4 4.Bc4"
+    },
+    "Budapest Gambit":{
+      "Budapest Gambit":"1.d4 Nf6 2.c4 e5"
+    },
+    "Caro-Kann Defence":{
+      "Schaffer Gambit":"1.e4 c6 2.Bc4 d5 3.Bb3",
+      "Alekhine Gambit Black":"1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Bd3",
+      "Rasa-Studier Gambit":"1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.f3"
+    },
+    "Dutch Defence":{
+      "Krejcik Gambit Black":"1.d4 f5 2.g4"
+    },
+    "English Opening":{
+      "Jaenisch Gambit (Halibut Gambit)":"1.c4 b5",
+      "Wade Gambit":"1.c4 f5 2.g4"
+    },
+    "Englund Gambit":{
+      "Englund Gambit":"1.d4 e5 2.dxe5 Nc6 3.Nf3 Qe7 4.Qd5 f6 5.exf6 Nxf6",
+      "Mosquito Gambit":"1.d4 e5 2.dxe5 Qh4"
+    },
+    "Evans Gambit":{
+      "Evans Countergambit":"1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 d5"
+    },
+    "Four Knights Game":{
+      "Belgrade Gambit":"1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nd5"
+    },
+    "French Defence":{
+      "Krol Gambit":"1.e4 e6 2.f4 d5 3.Nf3",
+      "Winawer, Alekhine (Maroczy) Gambit":"1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Ne2",
+      "Winawer, Alekhine Gambit":"1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Ne2 dxe4 5.a3 Bxc3+",
+      "Winawer, Alekhine Gambit, Kan Variation":"1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Ne2 dxe4 5.a3 Bxc3+ 6.Nxc3 Nc6",
+      "Winawer, Alekhine Gambit, Alatortsev Variation":"1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Ne2 dxe4 5.a3 Be7 6.Nxe4 Nf6 7.N2g3 0-0 8.Be2 Nc6",
+      "Fingerslip Variation":"1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Bd2"
+    },
+    "Giuoco Piano":{
+      "Deutz Gambit":"1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.0-0 Nf6 5.d4",
+      "Moeller Gambit":"1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4+ 7.Nc3 Nxe4 8.0-0 Bxc3 9.d5"
+    },
+    "Indian Defence":{
+      "Benko Gambit (Volga Gambit)":"1.d4 Nf6 2.c4 c5 3.d5 b5",
+      "Grunfeld Gambit":"1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 0-0",
+      "Blumenfeld Counter Gambit":"1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 b5",
+      "Danube Gambit":"1.d4 Nf6 2.c4 g6 3.d5 b5"
+    },
+    "Italian Game":{
+      "Blackburne Shilling Gambit":"1.e4 e5 2.Nf3 Nc6 3.Bc4 Nd4"
+    },
+    "King's Gambit Accepted":{
+      "Blackburne Gambit":"1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5 h6 6.Nxf7 Kxf7 7.Nc3",
+      "Bryan (Kieseritzky) Countergambit":"1.e4 e5 2.f4 exf4 3.Bc4 b5",
+      "Bryan Countergambit":"1.e4 e5 2.f4 exf4 3.Bc4 Qh4+ 4.Kf1 b5",
+      "Carrera (Basman) Gambit":"1.e4 e5 2.f4 exf4 3.Qe2",
+      "Gama Gambit":"1.e4 e5 2.f4 exf4 3.g3",
+      "Gianutio Countergambit":"1.e4 e5 2.f4 exf4 3.Nf3 f5",
+      "Hanstein Gambit":"1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.0-0",
+      "Lopez-Gianutio Countergambit":"1.e4 e5 2.f4 exf4 3.Bc4 f5",
+      "Polerio Gambit":"1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4",
+      "Rosentreter Gambit":"1.e4 e5 2.f4 exf4 3.Nf3 g5 4.d4 g4",
+      "Stamma Gambit":"1.e4 e5 2.f4 exf4 3.h4",
+      "Tartakower (Lesser Bishop's) Gambit":"1.e4 e5 2.f4 exf4 3.Be2"
+    },
+    "King's Gambit Declined":{
+      "Adelaide Countergambit":"1.e4 e5 2.f4 Nc6 3.Nf3 f5",
+      "Falkbeer Countergambit":"1.e4 e5 2.f4 d5",
+      "Rubinstein Countergambit":"1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.c3 f5",
+      "Senechaud Countergambit":"1.e4 e5 2.f4 Bc5 3.Nf3 g5",
+      "Zilbermints Double Countergambit":"1.e4 e5 2.f4 g5"
+    },
+    "King's Pawn Opening":{
+      "Duras Gambit (Fred Defence)":"1.e4 f5 2.exf5 Kf7",
+      "Elephant Gambit":"1.e4 e5 2.Nf3 d5"
+    },
+    "Latvian Gambit":{
+      "Latvian Gambit (Greco Countergambit)":"1.e4 e5 2.Nf3 f5",
+      "Latvian Gambit (Lobster Gambit)":"1.e4 e5 2.Nf3 f5 3.g4",
+      "Svendenborg's Variation":"1.e4 e5 2.Nf3 f5 3.Nxe5 Nf6 4.Bc4 fxe4 5.Nf7 Qe7 6.Nxh8 d5",
+      "Mayet, Strautins Gambit":"1.e4 e5 2.Nf3 f5 3. Bc4 b5"
+    },
+    "Nimzowitsch Defence":{
+      "Colorado Gambit (Countergambit)":"1.e4 Nc6 2.Nf3 f5",
+      "Colorado Countercounter Gambit":"1.e4 Nc6 2.Nf3 f5 3.e5 d6 4.d4 dxe5 5.d5",
+      "De Smet Gambit":"1.e4 Nc6 2.d4 e5 3.dxe5 d6"
+    },
+    "Old Benoni":{
+      "Old Benoni (Benoni Gambit)":"1.d4 c5"
+    },
+    "Owen's Defence":{
+      "Matovinsky Gambit":"1.e4 b6 2.d4 Bb7 3.Bd3 f5"
+    },
+    "Petrov's Defence":{
+      "Cochrane Gambit":"1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nxf7",
+      "Stafford Gambit":"1.e4 e5 2.Nf3 Nf6 3.Nxe5 Nc6"
+    },
+    "Philidor Defence":{
+      "Lopez Countergambit":"1.e4 e5 2.Nf3 d6 3.Bc4 f5",
+      "Philidor Countergambit":"1.e4 e5 2.Nf3 d6 3.d4 f5"
+    },
+    "Ponziani Opening":{
+      "Ponziani Countergambit":"1.e4 e5 2.Nf3 Nc6 3.c3 f5",
+      "Vukovic Gambit":"1.e4 e5 2.Nf3 Nc6 3.c3 Nf6 4.d4 Nxe4 5.d5 Bc5"
+    },
+    "Queen's Gambit":{
+      "Albin Countergambit":"1.d4 d5 2.c4 e5",
+      "Gusev Countergambit":"1.d4 d5 2.c4 c5 3.cxd5 Nf6"
+    },
+    "Queen's Pawn Opening":{
+      "Steinitz Countergambit":"1.d4 d5 2.Bf4 c5"
+    },
+    "Reti Opening":{
+      "Lisitsin Gambit":"1.Nf3 f5 2.e4",
+      "Lisitsin Gambit Deffered":"1.Nf3 f5 2.d3 Nf6 3.e4",
+      "Ross Gambit":"1.Nf3 e5",
+      "Blumenfeld Reversed Gambit":"1.Nf3 d5 2.c4 d4 3.e3 c5 4.b4"
+    },
+    "Ruy Lopez":{
+      "Spanish Countergambit":"1.e4 e5 2.Nf3 Nc6 3.Bb5 d5",
+      "Rotary-Albany Gambit":"1.e4 e5 2.Nf3 Nc6 3.Bb5 b6",
+      "Schliemann (Jaenisch) Gambit":"1.e4 e5 2.Nf3 Nc6 3.Bb5 f5",
+      "Harksen Gambit":"1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.0-0 Nxe4 6.d4 b5 7.Bb3 d5 8.c4",
+      "Basque Gambit":"1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.0-0 Be7 6.d4 exd4 7.e5 Ne4 8.c3",
+      "Marshall Gambit":"1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.0-0 Be7 6.Re1 b5 7.Bb3 0-0 8.c3 d5",
+      "Kevitz Gambit":"1.e4 e5 2.Nf3 Nc6 3.Bb5 g6 4.c3 f5"
+    },
+    "Scandinavian Defense":{
+      "Boehnke Gambit":"1.e4 d5 2.exd5 e6 3.dxe6 Bxe6",
+      "Marshall Gambit":"1.e4 d5 2.exd5 Nf6",
+      "Icelandic Gambit":"1.e4 d5 2.exd5 Nf6 3.c4 e6",
+      "Portuguese Gambit":"1.e4 d5 2.exd5 Nf6 3.d4 Bg4",
+      "Kadas Gambit":"1.e4 d5 2.exd5 Nf6 3.d4 c6 4.dxc6 e5"
+    },
+    "Scotch Game":{
+      "Relfsson Gambit":"1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bb5"
+    },
+    "Semi-Slav Defense":{
+      "Marshall Gambit":"1.d4 d5 2.c4 e6 3.Nc3 c6 4.e4 dxe4 5.Nxe4 Bb4+ 6.Bd2"
+    },
+    "Sicilian Defence":{
+      "Rubinstein Countergambit":"1.e4 c5 2.Nf3 Nf6 3.e5 Nd5 4.Nc3 e6 5.Nxd5 exd5 6.d4 Nc6",
+      "Portsmouth Gambit":"1.e4 c5 2.Nf3 Nc6 3.b4",
+      "Sicilian Gambit":"1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Be2 Bb4 7.0-0",
+      "Bronstein Gambit":"1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.0-0 Nc6 6.c3 Nf6 7.d4",
+      "Ginsburg Gambit":"1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Bc4",
+      "Poisoned Pawn":"1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6 8.Qd2 Qxb2"
+    },
+    "Slav Defense":{
+      "Winawer Countergambit":"1.d4 d5 2.c4 c6 3.Nc3 e5",
+      "Slav Gambit":"1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.e4",
+      "Tolush-Geller Gambit":"1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.e4 b5 6.e5"
+    },
+    "Sokolsky Opening":{
+      "Tartakower (Fischer) Gambit":"1.b4 e5 2.Bb2 f6 3.e4"
+    },
+    "Tarrasch Defense":{
+      "Marshall Gambit":"1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.e4",
+      "Von Hennig-Schara Gambit (Hennig-Schara Gambit, Schara-Hennig Countergambit)":"1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 cxd4"
+    },
+    "Two Knights Defence":{
+      "Wilkes-Barre/Traxler Variation":"1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5",
+      "Ulvestad Variation":"1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 b5"
+    },
+    "Vienna Game":{
+      "Frankenstein-Dracula Variation":"1.e4 e5 2.Nc3 Nf6 3.Bc4 Nxe4 4.Qh5 Nd6 5.Bb3 Nc6 6.Nb5 g6 7.Qf3 f5 8.Qd5 Qe7 9.Nxc7+ Kd8 10.Nxa8 b6",
+      "Quelle Gambit":"1.e4 e5 2.Nc3 Nc6 3.f4 Bc5 4.fxe5 d6"
+    }
+  },
+  "white":{
+    "Alekhine's Defence":{
+      "Alekhine Gambit":"1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.d4 d6 5.Nf3 Bg4 6.Be2 dxe5 7.Nxe5",
+      "John Tracy Gambit":"1.e4 Nf6 2.Nf3",
+      "Krejcik Gambit":"1.e4 Nf6 2.Bc4 Nxe4 3.Bxf7+",
+      "Spielmann Gambit":"1.e4 Nf6 2.Nc3 d5 3.e5 Nfd7 4.e6",
+      "O'Sullivan Gambit":"1.e4 Nf6 2.e5 Nd5 3.d4 b5"
+    },
+    "Amar Opening":{
+      "Paris Gambit":"1.Nh3 d5 2.g3 e5 3.f4 Bxh3 4.Bxh3 exf4 5.0-0"
+    },
+    "Benko Opening":{
+      "Nescafe Frappe Attack":"1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.Nc3 axb5 6.e4 b4 7.Nb5 d6"
+    },
+    "Bird's Opening":{
+      "From's Gambit":"1.f4 e5",
+      "From's Gambit, Bahr Gambit":"1.f4 e5 2.Nc3",
+      "From's Gambit, Lasker Gambit":"1.f4 e5 2.fxe5 f6",
+      "From's Gambit, Platz Gambit":"1.f4 e5 2.fxe5 Ne7",
+      "From's Gambit, Langheld Gambit":"1.f4 e5 2.fxe5 d6 3.exd6 Nf6",
+      "From's Gambit, Siegener Gambit":"1.f4 e5 2.d4 exd4 3.Nf3 c5 4.c3",
+      "King's Bishop's Gambit":"1.f4 f5 2.g4",
+      "Swiss Gambit":"1.f4 f5 2.e4 fxe4 3.Nc3 Nf6 4.g4",
+      "Hobbs-Zilbermints Gambit":"1.f4 h6 2.Nf3 g5",
+      "Inverted Dutch, Batavo Gambit":"1.f4 d5 2.Nf3 c5 3.e4 dxe4",
+      "Swiss Gambit, Wagner-Zwitersch Gambit":"1.f4 f5 2.e4 fxe4 3.Nc3 Nf6 4.g4",
+      "Williams Gambit":"1.f4 d5 2.e4"
+    },
+    "Bishop's Opening":{
+      "Four Pawns Gambit":"1.e4 e5 2.Bc4 Bc5 3.b4 Bxb4 4.f4 exf4 5.Nf3 Be7 6.d4 Bh4+ 7.g3 fxg3 8.0-0 gxh2+ 9.Kh1",
+      "Khan Gambit":"1.e4 e5 2.Bc4 d5",
+      "Lewis Gambit":"1.e4 e5 2.Bc4 Bc5 3.d4",
+      "McDonnell Double Gambit":"1.e4 e5 2.Bc4 Bc5 3.b4 Bxb4 4.f4",
+      "Petroff Gambit":"1.e4 e5 2.Bc4 Bc5 3.Nf3 d6 4.c3 Qe7 5.d4",
+      "Wing Gambit":"1.e4 e5 2.Bc4 Bc5 3.b4",
+      "Boden-Kieseritzky Gambit":"1.e4 e5 2.Bc4 Nf6 3.Nf3 Nxe4 4.Nc3",
+      "Greco Gambit":"1.e4 e5 2.Bc4 Nf6 3.f4",
+      "Ponziani Gambit":"1.e4 e5 2.Bc4 Nf6 3.d4",
+      "Urusov (Ponziani) Gambit":"1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3"
+    },
+    "Blackmar-Diemer Gambit":{
+      "Blackmar Gambit":"1.d4 d5 2.e4 dxe4 3.f3",
+      "Blackmar-Diemer Gambit #1":"1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3",
+      "Blackmar-Diemer Gambit #2":"1.d4 d5 2.Nc3 Nf6 3.e4 dxe4 4.f3",
+      "Zilbermints Gambit":"1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3 e6 6.Bg5 Be7 7.Bd3 Nc6 8.0-0 Nxd4 9.Kh1"
+    },
+    "Budapest Gambit":{
+      "Fajarowicz Gambit":"1.d4 Nf6 2.c4 e5 3.dxe5 Ne4",
+      "Balogh Gambit":"1.d4 Nf6 2.c4 e5 3.dxe5 Ng4 4.e4 d6"
+    },
+    "Caro-Kann Defence":{
+      "Van Weersel Attack":"1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.Qb3",
+      "Maroczy Gambit":"1.e4 c6 2.d4 d5 3. f3 dxe4 4.fxe4 e5 5.Nf3 exd4 6.Bc4",
+      "Tal Variation 5.Bg5":"1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qb6 6. Bd3 Bxd3 7. Qxd3 Qxb2 8. e6",
+      "Godley Gambit":"1.e4 c6 2.d4 d5 3.exd5 Nf6"
+    },
+    "Center Game":{
+      "Beyer Gambit":"1.e4 e5 2.d4 d5"
+    },
+    "Danish Gambit":{
+      "Danish Gambit":"1.e4 e5 2.d4 exd4 3.c3",
+      "Halasz Gambit":"1.e4 e5 2.d4 exd4 3.f4"
+    },
+    "Dutch Defence":{
+      "Janzen-Korchnoi Gambit":"1.d4 f5 2.h3 Nf6 3.g4",
+      "Kingfisher Gambit":"1.d4 f5 2.Nc3 d5 3.e4",
+      "Manhattan Gambit":"1.d4 f5 2.Qd3 e6 (or 2...g6, d5, d6) 3.g4",
+      "Spielmann Gambit":"1.d4 f5 2.Nc3 Nf6 3.g4",
+      "Staunton Gambit":"1.d4 f5 2.e4",
+      "Lasker Gambit":"1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.Bg5 c6 (or 4...g6) 5.f3",
+      "Staunton Gambit Deferred":"1.d4 f5 2.c4 e6 3.e4"
+    },
+    "English Opening":{
+      "Ferenc Gambit":"1.c4 f5 2.Nc3 Nf6 3.e4",
+      "White Gambit":"1.c4 d5 2.b3 dxc4 3.bxc4 Qd4 4.Nc3",
+      "Bellon Gambit":"1.c4 e5 2.Nc3 Nf6 3.Nf3 e4 4.Ng5 b5",
+      "Symmetrical, Queen's Bishop's Gambit":"1.c4 c5 2.b4"
+    },
+    "Englund Gambit":{
+      "Charlick Gambit":"1.d4 e5",
+      "Soller Gambit":"1.d4 e5 2.dxe5 Nc6 3.Nf3 f6",
+      "Zilbermints Gambit":"1.d4 e5 dxe5 Nc6 3.Nf3 Nge7"
+    },
+    "Evans Gambit":{
+      "Evans Gambit":"1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4"
+    },
+    "Four Knights Game":{
+      "Halloween Gambit (Muller-Schultze) Gambit":"1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Nxe5"
+    },
+    "French Defence":{
+      "Alapin Gambit":"1.e4 e6 2.d4 d5 3.Be3",
+      "Orthoschnapp Gambit":"1.e4 e6 2.c4 d5 3.cxd5 exd5 4.Qb3",
+      "Diemer-Duhm Gambit":"1.e4 e6 2.d4 d5 3.c4",
+      "French: Wing Gambit":"1.e4 e6 2.Nf3 d5 3.e5 c5 4.b4",
+      "Franco-Hiva Gambit":"1.e4 e6 2.Nf3 f5",
+      "Papa-Ticulat Gambit":"1.e4 e6 2.b3 d5 3.Bb2",
+      "Banzai-Leong Gambit":"1.e4 e6 2.b4",
+      "Perseus Gambit":"1.e4 e6 2.d4 d5 3.Nf3",
+      "Baeuerle Gambit":"1.e4 e6 2.d4 b5",
+      "Milner-Barry Gambit":"1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Bd3 cxd4 7.cxd4 Bd7 8.Nc3 Nxd4 9.Nxd4 Qxd4",
+      "Nimzowitsch Gambit":"1.e4 e6 2.d4 d5 3.e5 c5 4.Qg4",
+      "Albin-Chatard Gambit":"1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.h4 Bxg5 7.hxg5 Qxg5"
+    },
+    "Giuoco Piano":{
+      "Italian Gambit":"1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d4",
+      "Jerome Gambit":"1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.Bxf7+ Kxf7",
+      "Albin Gambit":"1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.0-0"
+    },
+    "Italian Game":{
+      "Rousseau Gambit":"1.e4 e5 2.Nf3 Nc6 3.Bc4 f5",
+      "Nakhmanson Gambit":"1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.0-0 Nxe4 6.Nc3",
+      "Lucchini Gambit":"1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 f5"
+    },
+    "King's Gambit":{
+      "King's Gambit":"1.e4 e5 2.f4"
+    },
+    "King's Gambit Accepted":{
+      "Allgaier Gambit":"1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5",
+      "Australian Gambit":"1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.h4",
+      "Bertin (Three Pawns) Gambit":"1.e4 e5 2.f4 exf4 3.Nf3 Be7 4.Bc4 Bh4+ 5.g3 fxg3 6.0-0 gxh2+ 7.Kh1",
+      "Bishop's Gambit":"1.e4 e5 2.f4 exf4 3.Bc4",
+      "Breyer Gambit":"1.e4 e5 2.f4 exf4 3.Qf3",
+      "Cunningham Gambit":"1.e4 e5 2.f4 exf4 3.Nf3 Be7",
+      "Double Muzio Gambit":"1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.0-0 gxf3 6.Qxf3 Qf6 7.e5 Qxe5 8.Bxf7+",
+      "Ghulam Khassim Gambit":"1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.d4",
+      "Keres Gambit":"1.e4 e5 2.f4 exf4 3.Nc3",
+      "Kieseritzky Gambit":"1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5",
+      "McDonnell Gambit":"1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Nc3",
+      "Muzio Gambit":"1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.0-0",
+      "Orsini Gambit":"1.e4 e5 2.f4 exf4 3.b3",
+      "Paris Gambit":"1.e4 e5 2.f4 exf4 3.Ne2",
+      "Philidor Gambit":"1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.h4",
+      "Quade Gambit":"1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Nc3",
+      "Rice Gambit":"1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Nf6 6.Bc4 d5 7.exd5 Bd6 8.0-0",
+      "Salvio Gambit":"1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Ne5",
+      "Schurig Gambit":"1.e4 e5 2.f4 exf4 3.Bb5 (or 3.Bd3)",
+      "Sorensen Gambit":"1.e4 e5 2.f4 exf4 3.Nf3 g5 4.d4 g4 5.Ne5",
+      "Triple Muzio Gambit":"1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.0-0 gxf3 6.Qxf3 Qf6 7.e5 Qxe5 8.Bxf7+ Kxf7 9.d4 Qxd4+ 10.Be3",
+      "Tumbleweed Gambit":"1.e4 e5 2.f4 exf4 3.Kf2",
+      "Villemson Gambit":"1.e4 e5 2.f4 exf4 3.d4",
+      "Wild Muzio Gambit":"1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Bxf7+"
+    },
+    "King's Gambit Declined":{
+      "Charousek Gambit":"1.e4 e5 2.f4 d5 3.exd5 e4 4.d3 Nf6 5.dxe4 Nxe4 6.Qe2",
+      "Miles Gambit":"1.e4 e5 2.f4 d5 3.exd5 Bc5"
+    },
+    "King's Pawn Opening":{
+      "Chicago Gambit":"1.e4 e5 2.Nf3 Nc6 3.Nxe5 Nxe5 4.d4"
+    },
+    "Nimzowitsch Defence":{
+      "Heinola-Deppe Gambit":"1.e4 Nc6 2.d4 d5 3.Nc3 e5"
+    },
+    "Old Benoni":{
+      "Zilbermints-Benoni Gambit":"1.d4 c5 2.b4 {also 1.d4 c5 2.Nf3 cxd4 3.b4}"
+    },
+    "Owen's Defence":{
+      "Hekili-Loa Gambit":"1.e4 b6 2.d4 c5 3.dxc5 Nc6",
+      "Smith Gambit":"1.e4 b6 2.d4 Bb7 3.Nf3"
+    },
+    "Petrov's Defence":{
+      "Boden-Kieseritzky Gambit":"1.e4 e5 2.Nf3 Nf6 3.Bc4 Nxe4 4.Nc3 Nxc3 5.dxc3 f6",
+      "Urusov Gambit":"1.e4 e5 2.Nf3 Nf6 3.d4 exd4 4.Bc4",
+      "Kholmov Gambit":"1.e4 e5 2.Nf3 Nf6 3.Nxe5 Nxe4 4.Qe2 Qe7 5.Qxe4 d6"
+    },
+    "Philidor Defence":{
+      "Locock Gambit":"1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.Ng5 h6 5.Nxf7"
+    },
+    "Ponziani Opening":{
+      "Neumann Gambit":"1.e4 e5 2.Nf3 Nc6 3.c3 Nf6 4.Bc4"
+    },
+    "Queen's Gambit":{
+      "Queen's Gambit":"1.d4 d5 2.c4"
+    },
+    "Reti Opening":{
+      "Herrstrom Gambit":"1.Nf3 g5",
+      "Tennison Gambit (aka: Abonyi Gambit or Lemberg Gambit or Zukertort Gambit)":"1.Nf3 d5 2.e4 {also 1.e4 d5 2.Nf3}",
+      "Michel Gambit":"1.Nf3 d5 2.c4 d4 3.b4 c5",
+      "Reti (Landstrasse) Gambit":"1.Nf3 d5 2.c4"
+    },
+    "Ruy Lopez":{
+      "Brentano Gambit":"1.e4 e5 2.Nf3 Nc6 3.Bb5 g5",
+      "Alapin Gambit":"1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6 5.0-0 Bg4 6.h3 h5",
+      "Karpov Gambit":"1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.0-0 Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6 9.Nbd2 Nc5 10.c3 d4 11.Ng5"
+    },
+    "Scandinavian Defense":{
+      "Kotrc-Mieses Gambit":"1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.b4",
+      "Tennison Gambit (aka: Abonyi Gambit or Lemberg Gambit or Zukertort Gambit)":"1.e4 d5 2.Nf3 {also 1.Nf3 d5 2.e4}"
+    },
+    "Scotch Game":{
+      "Goring Gambit":"1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3",
+      "Scotch Gambit":"1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4"
+    },
+    "Semi-Slav Defense":{
+      "Anti-Meran Gambit":"1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.Bg5",
+      "Anti-Moscow Gambit":"1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.Bg5 h6 6.Bh4 g5 7.Bg3 dxc4 8.e4"
+    },
+    "Sicilian Defence":{
+      "Wing Gambit Delayed":"1.e4 c5 2.a3 Nc6 (or 2...e6) 3.b4",
+      "Wing Gambit":"1.e4 c5 2.b4",
+      "Andreaschek Gambit":"1.e4 c5 2.d4 cxd4 3.Nf3 e5 4.c3",
+      "Morphy Gambit":"1.e4 c5 2.d4 cxd4 3.Nf3",
+      "Smith-Morra Gambit":"1.e4 c5 2.d4 cxd4 3.c3",
+      "Morra Gambit":"1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.c3",
+      "Kasparov Gambit":"1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.c4 Nf6 7.N1c3 a6 8.Na3 d5",
+      "Wing Gambit Deferred [Sicilian 2...d6]":"1.e4 c5 2.Nf3 d6 (or 2...e6) 3.b4",
+      "Zollner Gambit":"1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be2 Bg7 7.Be3 Nc6 8.0-0 0-0 9.f4 Qb6 10.e5"
+    },
+    "Slav Defense":{
+      "Diemer Gambit":"1.d4 d5 2.c4 c6 3.e4"
+    },
+    "Sodium Attack":{
+      "Durkin Gambit":"1.Na3 e5 2.Nc4 Nc6 3.e4 f5"
+    },
+    "Sokolsky Opening":{
+      "Queen's Knight's Gambit":"1.b4 b5 2.a4"
+    },
+    "Tarrasch Defense":{
+      "Tarrasch Gambit":"1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.dxc5 d4 6.Na4 b5"
+    },
+    "Torre Attack":{
+      "Wagner Gambit":"1.d4 Nf6 2.Nf3 e6 3.Bg5 c5 4.e4"
+    },
+    "Two Knights Defence":{
+      "Boden-Kieseritzky Gambit":"1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Nc3 Nxe4 5.0-0",
+      "Fegatello/Fried Liver Attack":"1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nxd5 6.Nxf7 Kxf7",
+      "Ponziani-Steinitz Gambit":"1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Nxe4",
+      "Two Knights' Gambit":"1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5"
+    },
+    "Vienna Game":{
+      "Max Lange, Meitner-Mieses Gambit":"1.e4 e5 2.Nc3 Nc6 3.Bc4 Bc5 4.Qg4 Qf6 5.Nd5",
+      "Fyfe Gambit":"1.e4 e5 2.Nc3 Nc6 3.d4",
+      "Hamppe-Allgaier Gambit":"1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3 g5 5.h4 g4 6.Ng5",
+      "Hamppe-Muzio Gambit":"1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3 g5 5.Bc4 g4 6.0-0",
+      "Pierce Gambit":"1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3 g5 5.d4 g4 6.Bc4",
+      "Steinitz Gambit":"1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.d4",
+      "Adams Gambit":"1.e4 e5 2.Nc3 Nf6 3.Bc4 Nxe4 4.Qh5 Nd6 5.Bb3 Nc6 6.d4",
+      "Vienna Gambit":"1.e4 e5 2.Nc3 Nf6 3.f4"
+    }
+  },
+  "neither":{
+    "Benko Opening":{
+      "Dada Gambit":"1.g3 e5 2.Bg2 d5 3.b4"
+    },
+    "Owen's Defence":{
+      "Wind Gambit":"1.e4 b6 2.d4 Bb7 3.f3 e5"
+    },
+    "Sokolsky Opening":{
+      "Birmingham Gambit":"1.b4 c5"
+    }
+  }
+}
